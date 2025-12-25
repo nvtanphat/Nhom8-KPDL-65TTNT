@@ -6,7 +6,7 @@
 
 **Giảng viên:** ThS. Vũ Thị Hạnh
 
-**Nhóm thực hiện:** Nhóm 3
+**Nhóm thực hiện:** Nhóm 8
 
 **Thành viên:**
 1. Nguyễn Văn Tấn Phát
