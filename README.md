@@ -35,7 +35,7 @@ Thư mục này chứa 4 notebook tương ứng với quá trình huấn luyện
 ### 3. EfficientNetB3 (`04_efficientnetb3.ipynb`)
 - **Mô tả:** Sử dụng kiến trúc EfficientNetB3, mô hình được tối ưu đồng thời về chiều sâu, chiều rộng và độ phân giải ảnh.
 - **Mục tiêu:** Hướng tới việc đạt độ chính xác cao nhất trên tập dữ liệu bệnh lá cây bằng cách sử dụng một kiến trúc học sâu hiện đại và hiệu quả.
-- 
+
 ### 4 EDA (eda.ipynb)
 - **Mô tả:** Khám phá và trực quan hóa dữ liệu
 
